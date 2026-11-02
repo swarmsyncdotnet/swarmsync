@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="mascot.webp" width="300" alt="The swarmsync mascot: a bee boy with antennae in a black-and-yellow hoodie, in front of a honeycomb, syncing an upload folder and a download folder">
+  <img src="mascot.webp" width="300" alt="The SwarmSync mascot: a bee boy with antennae in a black-and-yellow hoodie, in front of a honeycomb, syncing an upload folder and a download folder">
 </p>
 
-<h1 align="center">swarmsync</h1>
+<h1 align="center">SwarmSync</h1>
 
 <p align="center"><b>Pair once. Sync everywhere.</b></p>
 
