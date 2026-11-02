@@ -20,5 +20,3 @@ Peer-to-peer file sync for your own Linux machines. Each one becomes a bee in yo
 *Coming soon.*
 
 Website: [swarmsync.net](https://swarmsync.net)
-
-<sub>Syncthing is a trademark of its respective owner. swarmsync is an independent project and not affiliated with Syncthing.</sub>
